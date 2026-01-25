@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Manish Kumar Pandey (@Mpandey04)
+# 👋 Hi, I'm Manish Kumar Pandey 
 
 🚀 MERN Stack Developer | Frontend Enthusiast | Future Mobile App Developer  
 

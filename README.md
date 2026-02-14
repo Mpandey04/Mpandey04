@@ -104,7 +104,7 @@ Currently expanding into **full-stack MERN applications** and planning to build 
 ## 🌐 Connect With Me
 
 - 🔗 GitHub: https://github.com/Mpandey04  
-- 💼 LinkedIn: *(add when ready)*  
+- 💼 LinkedIn: [(add when ready)*](https://www.linkedin.com/in/manish-kumar-pandey-644790231/)] 
 - 📧 Email: manishkumarpanday231@gmail.com  
 
 ---
